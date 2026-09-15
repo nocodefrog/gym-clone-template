@@ -5,14 +5,14 @@ export const testimonialsSection = {
 export const testimonials = [
   {
     name: "Sarah Johnson",
-    review: "Beatiful atmosphere and exprellent food.",
+    review: "IronCore completely changed how I train. The coaches actually track your progress, not just count reps.",
   },
   {
     name: "Michael Brown",
-    review: "Every dish was fresh.",
+    review: "Best gym I've been to in the city. Clean equipment, no waiting around for machines.",
   },
   {
     name: "Emily Davis",
-    review: "One of the best dining expriences in the city.",
+    review: "Signed up for personal training 3 months ago. Down 8kg and stronger than I've ever been.",
   },
 ];

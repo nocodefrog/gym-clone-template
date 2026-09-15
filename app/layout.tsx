@@ -3,7 +3,7 @@ import "./globals.css";
 import { site } from "@/data/site";
 
 export const metadata: Metadata = {
- metadataBase: new URL("https://gym-clone-yourname.vercel.app"),
+ metadataBase: new URL("https://gym-clone-Template.app"),
 
   title: `${site.companyName} | ${site.tagline}`,
   description: site.description,

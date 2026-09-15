@@ -4,15 +4,15 @@ export const faqSection = {
 
 export const faqs = [
   {
-    question: "Do you help first-time buyers?",
-    answer: "Yes. We guide you through the process.",
+    question:  "Do you offer a trial session?",
+    answer: "free first session before committing to a plan.",
   },
   {
-    question: "Can I visit?",
-    answer: "Absolutely. Contact us to arrange a convenient time.",
+    question: "What are your gym hours?",
+    answer: "Open 6 AM – 10 PM, Monday to Saturday.",
   },
   {
-    question: "Do you offer mortgage guidance?",
-    answer: "Yes. We can connect you with trusted mortgage partners.",
+    question: "Do you provide personal training?",
+    answer: "Yes, one-on-one coaching is available with all membership tiers.",
   },
 ];

@@ -1,6 +1,6 @@
 export const cta = {
-  title: "Ready to Find Your Dream Home?",
+  title: "Ready to Start Training?",
   description:
-    "Contact our team today and let us help you find the perfect property.",
+    "Book your free trial session today and see what structured training can do for you.",
   button: "Contact Us",
 };

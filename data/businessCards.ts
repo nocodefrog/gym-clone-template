@@ -8,18 +8,18 @@ export const businessCards = [
     title: "Strength Training",
     location: "Main Training Floor",
     price: "₹2,999/month",
-    image: "/images/strength.jpg",
+    image: "/images/strengtninghtra.jpg",
   },
   {
     title: "Personal Training",
     location: "Private Training Studio",
     price: "₹4,999/month",
-    image: "/images/personal-training.jpg",
+    image: "/images/personaltraining.jpg",
   },
   {
     title: "Group Fitness",
     location: "Fitness Studio",
     price: "₹1,999/month",
-    image: "/images/group-training.jpg",
+    image: "/images/grouptraning.jpg"
   },
 ];
