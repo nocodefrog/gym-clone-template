@@ -5,6 +5,6 @@ export const site = {
     "Premium training, personal coaching, and modern fitness facilities.",
   cta: "Start Training",
   ogImage: "/images/og-image.jpg",
-heroImage: "/images/Hero.jpg",
+heroImage: "/images/hero2.jpg",
   heroImageAlt: "Modern fitness gym",
 };
